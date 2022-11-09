@@ -1,4 +1,4 @@
-# Repository with examples of usage different social accounts for authentication with Django. 
+# Repository with examples of usage github for authentication with Django. 
 ### This project contains example of authentication via:
 - github
 
